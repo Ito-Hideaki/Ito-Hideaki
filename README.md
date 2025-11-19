@@ -1,16 +1,27 @@
-## Hi there 👋
+国立東京工業高等専門学校生（2024年度入学生）　プログラミングコンテストゼミ所属
 
-<!--
-**Ito-Hideaki/Ito-Hideaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+課題や社会から自由な心と自由でない身分を併せ持った学生です。暇な人は一緒にゲームを作りましょう。
 
-Here are some ideas to get you started:
+## 👍慣れていること
+- だいたいのHTML、ひとつまみのPug
+- 簡単なCSS
+- そこそこのVanilla JSによるDOM操作とCanvas描画
+- Node.jsとExpressによる簡易なサーバー構築
+- 基礎的なPhaser.js
+- Cによる簡単なCLI入出力
+- ssh接続ができる程度のLinux操作
+- 1000行書けるぐらいのC#とUnity
+- ScratchとDeNAのプログラミングゼミ
+- 日常に困らない程度のgit
+- 簡単な画像編集
+- そこそこのイラスト
+- 簡単な音の編集
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😒慣れていないこと
+- Apple系
+- AIプログラミング
+- 競技プログラミング
+- プログラミング指向やアーキテクチャなど
+- WindowsやMac, Linuxなどのネイティブスクリプト
+- データベース
+- VS Code以外のエディタ
